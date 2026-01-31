@@ -2,8 +2,8 @@
 Personal developer portfolio showcasing AI and software projects
 ![Portfolio Preview](assets/portfolio-preview.png)
 
- Live Website: manaskumarmishra.com
- 
+ Live Website: [manaskumarmishra.com
+ ](http://manaskumarmishra.com/)
 ---
 
 About Me
