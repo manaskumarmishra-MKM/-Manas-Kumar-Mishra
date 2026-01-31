@@ -36,6 +36,6 @@ Available for download directly from the portfolio website.
 
 ---
 
-## 📬 Contact
+  Contact
 - GitHub: https://github.com/yourusername
 - LinkedIn: https://linkedin.com/in/yourprofile
