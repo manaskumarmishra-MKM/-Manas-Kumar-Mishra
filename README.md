@@ -35,5 +35,5 @@ Available for download directly from the portfolio website.
 ---
 
   Contact
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub:  https://github.com/manaskumarmishra-MKM
+- LinkedIn:  https://www.linkedin.com/in/manas-kumar-mishra-m-k-m
